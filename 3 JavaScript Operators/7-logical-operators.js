@@ -53,7 +53,7 @@ let isClosedOnSunday = true;
 
 const isRestaurantOpen = !isClosedOnSunday;
 
-console.log(isReservaationOpen);
+console.log(isRestaurantOpen);
 
 // ??, nullish coalescing operator
 // So if a value is null or undefined, then we can supply a default value.
